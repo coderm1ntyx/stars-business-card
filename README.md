@@ -4,6 +4,8 @@
 
 Did you ever want to have a **unique business card** website?
 
+![Preview](/Preview.png)
+
 Then you are on the **right link**, this is a **free website code** by @m1ntyx for you to use! 
 
 ## How can I edit this code?
